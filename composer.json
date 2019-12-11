@@ -1,0 +1,13 @@
+{
+    "name": "flexisource/code-challenge",
+    "type": "project",
+    "description": "Flexisource code challenge.",
+    "require": {
+        "laravel/framework": "^6.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
